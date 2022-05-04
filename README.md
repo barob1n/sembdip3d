@@ -1,9 +1,10 @@
 # sembdip3d
-Computes dip in seismic data set using semblance.
+Computes dip and coherancy at each sample in a 3D volume via semblance.
+
+Uses OpenMP for multithreading. Run ```make``` to build executable.  
 
 ```
 ********************************************************************************
- 
 Description: 
   Computes the dip and coherancy at each sample via semblance. 
   Program expects the following command line:  
