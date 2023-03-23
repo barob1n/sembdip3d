@@ -1,5 +1,5 @@
 # sembdip3d
-Computes dip and coherancy at each sample in a 3D volume via semblance.
+Computes dip and coherency at each sample in a 3D volume.
 
 
 ```
