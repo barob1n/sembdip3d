@@ -19,7 +19,7 @@ Inputs:
        distance from trace being analysed. 
        ex. numTr = 1 uses 9 traces. 3 by 3 block.
 		o--o--o
-	        |  |  |
+        |  |  |
 		o--x--o
 		|  |  |
 		o--o--o
