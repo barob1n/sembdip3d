@@ -18,11 +18,11 @@ Inputs:
   Num: Number of traces for semblance given as  
        distance from trace being analysed. 
        ex. numTr = 1 uses 9 traces. 3 by 3 block.
-		o--o--o 
+    o--o--o
     |  |  |
-		o--x--o
-		|  |  |
-		o--o--o
+    o--x--o
+    |  |  |
+    o--o--o
   maxDip: Maximum dip in ms/trace.
   win: Height of window in samples (along time dimension) for semblance analysis.
   thresh: minimum value for semblance - dips zerored if below this value.
